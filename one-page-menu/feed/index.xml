@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: One page Menu	</title>
-	<atom:link href="/one-page-menu/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://www.motusproductions.ml/one-page-menu/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.motusproductions.ml</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Mon, 20 Jul 2015 10:49:58 +0000</lastBuildDate>
 	<sy:updatePeriod>

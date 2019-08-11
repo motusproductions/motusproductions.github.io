@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Pellentesque	</title>
-	<atom:link href="/pellentesque/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://www.motusproductions.ml/pellentesque/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.motusproductions.ml</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 21 Jul 2015 09:41:42 +0000</lastBuildDate>
 	<sy:updatePeriod>

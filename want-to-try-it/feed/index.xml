@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Want to try it?	</title>
-	<atom:link href="/want-to-try-it/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://www.motusproductions.ml/want-to-try-it/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.motusproductions.ml</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Mon, 20 Jul 2015 09:13:12 +0000</lastBuildDate>
 	<sy:updatePeriod>
